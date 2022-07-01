@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zé, 32, from Brazil-zil-zil! 
+- 👋 Hi, I’m José Luiz (or just Zé), 32, from Brazil! 
 - 👀 I’m exploring stuff, so I can, someday, work with technology. 
 - 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on anything that I can.
