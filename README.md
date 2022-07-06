@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that I can.
 - 📫 You can reach me on jleftoledo@gmail.com. Also, I'm always on instagram @ztoledoo. 
 
-<!---
-jleftoledo/jleftoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div> 
+ 
+  ![Snake animation](https://github.com/jleftoledo/jleftoledo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
